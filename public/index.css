@@ -1,0 +1,9 @@
+body{
+    background: rgba(0, 0, 0, 0.9);
+    align-items: center;
+}
+h2{
+    color: #ffff;
+    font-size: 5em;
+    display: inline;
+}
